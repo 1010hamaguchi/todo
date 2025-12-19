@@ -6,7 +6,11 @@
       "Bash(npm run dev:*)",
       "Bash(git add:*)",
       "Bash(dir nul)",
-      "Bash(del nul)"
+      "Bash(del nul)",
+      "Bash(git commit:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git push:*)",
+      "Bash(npx vercel:*)"
     ]
   }
 }
